@@ -1,5 +1,5 @@
-# 视觉语言行动模型（VLA）研究综述
-
+# 🤖 Shanglong Hu's Notes - Task 01 of AI硬件与机器人技术教程 🛠️
+ AI硬件与机器人技术教程 
 > **主题**：VLA 模型、发展现状与未来方向  
 > **更新时间**：2025年10月  
 > **关键词**：VLA、具身智能、强化学习、MPC、控制架构
@@ -96,6 +96,8 @@
 ---
 
 ## 📚 参考方向
+- AI硬件与机器人技术教程 https://github.com/datawhalechina/ai-hardware-robotics
+- Qun Zheng‘s 私有知识库-Embodied-AI https://github.com/explor-alpha/Notes-Embodied-AI/
 - Google DeepMind RT 系列论文  
 - MOBIUS 开源具身智能模型  
 - OpenVLA / Voyager / EmbodiedGPT 等虚拟具身智能体  
@@ -105,4 +107,5 @@
 
 > 🧩 **笔记作者注**：  
 > 本文总结自近期具身智能研究进展，旨在为后续多模态控制体系研究提供结构化参考。
+
 
